@@ -6202,8 +6202,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = GFX_portrait_SOV_iosif_stalin
-		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Joseph_Stalin.dds"
+		name = GFX_portrait_SOV_nikolai_yezhov
+		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Nikolai_Yezhov.dds"
 	}
 
 	spriteType = {
